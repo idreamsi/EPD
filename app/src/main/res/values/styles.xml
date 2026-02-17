@@ -1,0 +1,11 @@
+<resources>
+    <!-- 自定义 SeekBar 样式 -->
+    <style name="PinkSeekBarStyle" parent="Widget.AppCompat.SeekBar">
+        <!-- 设置进度条颜色 -->
+        <item name="android:progressTint">#FF69B4</item>
+        <!-- 设置进度条背景颜色 -->
+        <item name="android:progressBackgroundTint">#D3D3D3</item>
+        <!-- 设置拇指（滑块）颜色 -->
+        <item name="android:thumbTint">#FF69B4</item>
+    </style>
+</resources>
